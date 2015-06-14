@@ -1,0 +1,22 @@
+\begin{thebibliography}{1}
+
+\bibitem{wagner_comparison_2012}
+Paul~D. Wagner, Peter Fiener, Florian Wilken, Shamita Kumar, and Karl
+  Schneider.
+\newblock Comparison and evaluation of spatial interpolation schemes for daily
+  rainfall in data scarce regions.
+\newblock {\em Journal of Hydrology}, 464-465:388--400, September 2012.
+
+\bibitem{graler_spatio-temporal_2011}
+Benedikt Gräler, L.~E. Gerharz, and Edzer Pebesma.
+\newblock Spatio-temporal analysis and interpolation of {PM}10 measurements in
+  {Europe}.
+\newblock Technical paper 2011/10, European Topic Center on Air Pollution and
+  Climate Change Mitigation, Bilthoven, 2011.
+
+\bibitem{webster_geostatistics_2007}
+R~Webster and M.~A Oliver.
+\newblock {\em Geostatistics for environmental scientists}.
+\newblock Wiley, Chichester, 2007.
+
+\end{thebibliography}
